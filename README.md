@@ -325,7 +325,6 @@ By understanding the fundamental components of CNNs and practicing with differen
 
 ## References
 
-- **Deep Learning with Python** by François Chollet
 - **Deep Learning Path** on Miuul [Link](https://miuul.com/deep-learning-path)
 - **CS231n: Convolutional Neural Networks for Visual Recognition** by Stanford University ([Course Website](http://cs231n.stanford.edu/))
 - **Andrew Ng's Deep Learning Specialization** on Coursera ([Link](https://www.coursera.org/specializations/deep-learning))
