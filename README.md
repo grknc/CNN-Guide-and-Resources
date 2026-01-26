@@ -4,7 +4,6 @@ CNNs, or Convolutional Neural Networks, are models used in deep learning, especi
 
 ![Convolution Layer](https://miro.medium.com/v2/resize:fit:1200/1*XbuW8WuRrAY5pC4t-9DZAQ.jpeg)
 
-
 In a basic CNN architecture:
 
 - **Convolution Layer**
